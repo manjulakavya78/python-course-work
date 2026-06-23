@@ -1,0 +1,23 @@
+FEATURES OF PYTHON:
+
+SIMPLE AND EASIBLE
+OPEN SOURCE INTERPRETED LANGUAGE
+DYNAMICALLY TYPE
+PORTABLE
+VIRTUAL ENVIRONMENT
+
+
+1.Python is a procedural and object oriented language.
+
+PROCEDURAL LANGUAGE=For small applications
+                            sequence of steps
+OBJECT ORIENTED LANGUAGE:
+1.USERS OR CALLED OBJECTS
+
+What is oops?
+class
+object
+encapsulation
+inheritance
+polymorphism
+abstraction
