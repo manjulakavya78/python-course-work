@@ -1,0 +1,10 @@
+def display(name,id,batch,course):
+    print("name:",name)
+    print("id:",id)
+    print("batch:",batch)
+    print("course:",course)
+name=input("Enter the name:")
+id=input("Enter the id:")
+batch=input("Enter the batch:")
+course=input("Enter the course:")
+display(name,id,batch,course)
