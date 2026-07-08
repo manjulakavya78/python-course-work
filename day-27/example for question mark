@@ -1,0 +1,5 @@
+import re
+pattern=r'to?'
+text='t to too tooo toooo tooooo'
+res=re.findall(pattern,text)
+print(res)
